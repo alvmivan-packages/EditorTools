@@ -1,0 +1,8 @@
+{
+            "name": "com.orbitar.editortools",
+            "version": "0.0.1",
+            "displayName": "EditorTools",
+            "description": "",
+            "unity": "2021.3",
+            "dependencies": {}
+        }
